@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShoppingCartKotlin</string>
+    <string name="title_products">Products</string>
+    <string name="title_cart">Cart</string>
+</resources>
